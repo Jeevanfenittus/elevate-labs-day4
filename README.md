@@ -3,6 +3,8 @@ Overview
 
 In this task, I created a serverless function using AWS Lambda and exposed it via an HTTP API for easy access from a browser or any HTTP client.
 
+ https://yml0k9je75.execute-api.eu-north-1.amazonaws.com/default/elevate-labs-day4
+
 Steps Completed
 
 Lambda Function Setup
